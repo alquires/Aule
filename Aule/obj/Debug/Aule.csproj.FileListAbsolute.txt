@@ -1,0 +1,9 @@
+C:\Geoprocessamento\Visualizador\aprendizado\Aule\Aule\Aule\bin\Debug\Aule.exe
+C:\Geoprocessamento\Visualizador\aprendizado\Aule\Aule\Aule\bin\Debug\Aule.pdb
+C:\Geoprocessamento\Visualizador\aprendizado\Aule\Aule\Aule\obj\Debug\ResolveAssemblyReference.cache
+C:\Geoprocessamento\Visualizador\aprendizado\Aule\Aule\Aule\obj\Debug\Aule.frmPrincipal.resources
+C:\Geoprocessamento\Visualizador\aprendizado\Aule\Aule\Aule\obj\Debug\Aule.Properties.Resources.resources
+C:\Geoprocessamento\Visualizador\aprendizado\Aule\Aule\Aule\obj\Debug\Aule.csproj.GenerateResource.Cache
+C:\Geoprocessamento\Visualizador\aprendizado\Aule\Aule\Aule\obj\Debug\Aule.exe
+C:\Geoprocessamento\Visualizador\aprendizado\Aule\Aule\Aule\obj\Debug\Aule.pdb
+C:\Geoprocessamento\Visualizador\aprendizado\Aule\Aule\Aule\obj\Debug\Aule.frmTabela.resources
